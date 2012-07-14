@@ -100,4 +100,4 @@ TARGET_PREBUILT_KERNEL := device/samsung/skyrocket/kernel
 TARGET_PREBUILT_RECOVERY_KERNEL := device/samsung/skyrocket/kernel
 #BOARD_CUSTOM_RECOVERY_KEYMAPPING := ../../device/samsung/skyrocket/recovery_keys.c
 
-TARGET_NO_RECOVERY := true
+#TARGET_NO_RECOVERY := true
